@@ -29,3 +29,4 @@ Once you have installed the game, you can start playing by following these steps
 ## Contributing
 If you would like to contribute to this project, you can fork the repository, make your changes, and submit a pull request.
 
+![quiz_game](https://user-images.githubusercontent.com/117073615/229593361-9bda9476-b906-48d9-a708-2ff0b912dfa5.png)
